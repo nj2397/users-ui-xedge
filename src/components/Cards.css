@@ -1,0 +1,11 @@
+.card {
+    width: 300px;
+    padding: 5%;
+    margin-right: 5%;
+    margin-top: 5%
+    /* background-color: lightgrey; */
+}
+
+.meta-container {
+    width: 100%;
+}
